@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "ARD Mall",
+    "location": "Buldhana",
+    "capacity": 100,
+    "noOfScreens": 2
+  }
+]

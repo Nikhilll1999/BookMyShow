@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "movie": "Inception",
+    "time": "19:00",
+    "price": 10.99,
+    "seatNumber": "A5"
+  }
+]
